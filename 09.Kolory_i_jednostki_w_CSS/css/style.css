@@ -1,0 +1,39 @@
+#span1{
+    color: lightcoral;
+}
+#span2{
+    color: lightseagreen;
+}
+#word1{
+    color: blue;
+}
+#word2{
+    color: darkblue;
+}
+#word3{
+    color: blueviolet;
+}
+.colorUnits{
+
+}
+#para1{
+    background-color: #C0C0C0;
+}
+#para2{
+    background-color: rgba(215,40,40,1);
+}
+#para3{
+    background-color: hsl(0, 100, 50);
+}
+.container{
+    background-color: lawngreen;
+    width: 200px;
+}
+.first{
+    width: 50%;
+    background-color: maroon;
+}
+.second{
+    width: 10em;
+    background-color: olivedrab;
+}
